@@ -1,5 +1,7 @@
 # Art Book NextUI Theme
 
+<img width=512px src="preview.png">
+
 ## Acknowledgments
 
 - This theme is based on Art Book Next for ES-DE by Anthony Caccese and can be found on [GitHub](https://github.com/anthonycaccese/art-book-next-es-de).
